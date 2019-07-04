@@ -1,0 +1,19 @@
+{
+  "name": "4_peticiones",
+  "version": "1.0.0",
+  "description": "Esta es un practica de peticiones",
+  "main": "peticiones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "js",
+    "peticiones"
+  ],
+  "author": "Fernando Baez",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
